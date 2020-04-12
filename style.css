@@ -1,0 +1,54 @@
+body {
+  font-family: 'Poppins', sns-serif;
+}
+
+#banner h1 {
+  font-size: 72px;
+  text-align: center;
+  padding: 25px;
+}
+
+
+.card {
+  padding: 25px;
+}
+
+.card img {
+  width: 100px;
+}
+
+#banner p{
+  padding: 25px;
+  font-size: 28px;
+ }
+
+#banner {
+  text-align: center;
+  background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)), url("images/bg.svg");
+  background-size: cover;
+  height: 95vh;
+  color: white;
+  padding: 125px;
+}
+
+#footer {
+  background: RGBA(44, 50, 55, 1.00);
+  padding: 35px;
+  color: white;
+  text-align: center;
+}
+
+#banner a {
+   text-decoration: none;
+}
+
+#banner a:hover {
+  text-decoration: none;
+}
+
+li {
+  list-style: none;
+  display: inline-block;
+  padding: 15px;
+}
+
